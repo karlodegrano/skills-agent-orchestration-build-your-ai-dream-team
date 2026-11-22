@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "name": "Docs Refresh",
+      "owner": "Mona",
+      "status": "On track",
+      "recentActivity": "Merged accessibility fixes on Nov 18",
+      "priority": "High",
+      "summary": "Updates the contributor guides so new teammates can get started faster."
+    },
+    {
+      "name": "Mobile Onboarding Flow",
+      "owner": "Priya Nair",
+      "status": "At risk",
+      "recentActivity": "Usability test feedback delayed the release candidate on Nov 15",
+      "priority": "High",
+      "summary": "Redesigns the first-run experience for the mobile app."
+    },
+    {
+      "name": "Billing API Migration",
+      "owner": "Diego Alvarez",
+      "status": "Blocked",
+      "recentActivity": "Waiting on partner credentials since Nov 12",
+      "priority": "Medium"
+    },
+    {
+      "name": "Community Newsletter",
+      "owner": "Sam Okafor",
+      "status": "Completed",
+      "recentActivity": "Published the November edition on Nov 10",
+      "priority": "Low",
+      "summary": "Monthly update that highlights contributor wins."
+    },
+    {
+      "name": "Cross-Team Platform Reliability and Observability Improvement Initiative",
+      "owner": "Alexandria Wojciechowski-Fernandez",
+      "status": "On track",
+      "recentActivity": "Finished rolling out distributed tracing dashboards across the checkout, search, notifications, and account services, and scheduled a follow-up review for Nov 25",
+      "priority": "Medium",
+      "summary": "Improves monitoring so incidents are found and fixed sooner."
+    }
+  ]
+}
